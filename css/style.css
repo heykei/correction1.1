@@ -1,0 +1,65 @@
+/* ====================== Exercice 1 ====================== */
+/*h1 {
+  color:red;
+  text-transform: uppercase;
+}
+h4 {
+  color:blue;
+}*/
+
+/* ====================== Exercice 2 ====================== */
+/*li {
+  list-style-type: square;
+}*/
+
+/* ====================== Exercice 3 ====================== */
+/*body{
+  background: linear-gradient(#CCCCCC,#000000);
+}
+
+div{
+  width: 600px;
+  height: 400px;
+  border: 1px solid #000;
+}
+#id1 {
+  background: radial-gradient(lightblue, darkblue);
+  box-shadow: 5px 5px 5px black;
+}*/
+
+/* ====================== Exercice 4 ====================== */
+/*
+.tableau{
+  border : 2px solid beige;
+}
+
+th{
+  background: #0bda51;
+  color: white;
+  font-weight: bold;
+}
+td{
+  border-bottom: 2px solid beige;
+  font-size: 10px;
+}
+*/
+
+/* ====================== Exercice 5 ====================== */
+.type{
+  height: 200px;
+  width:200px;
+  padding:10px;
+  border: 2px solid pink;
+}
+
+.coin1 {
+border-radius:50px;
+}
+.coin2 {
+border-radius: 50%;
+}
+.coin3 {
+border-top-right-radius: 6%;
+border-top-left-radius:15px;
+border-bottom-left-radius: 50px;
+}
